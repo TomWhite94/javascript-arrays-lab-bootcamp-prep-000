@@ -9,4 +9,4 @@ function desructivelyPrependKitten(name) {
   kittens.unshift(name)
   console.log(kittens)
 }
-desructivelyPrependKitten
+desructivelyPrependKitten("bob")
